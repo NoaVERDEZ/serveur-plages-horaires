@@ -8,7 +8,7 @@ const app = express();
 const port = 3005;
 const mysql = require("mysql");
 const cookieParser = require("cookie-parser");
-
+//langlace
 // Middleware pour permettre les requêtes CORS
 app.use(cors());
 
