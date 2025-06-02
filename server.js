@@ -107,3 +107,4 @@ app.post('/logout', (req, res) => {
 app.listen(port, () => {
     console.log(`🚀 Serveur démarré sur http://192.168.64.104:${port}`);
 });
+// COMMIT
